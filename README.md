@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 <html>
 <body>
       
-<p align="center">I'm a geotechnical engineer with extensive academic and practical experience. I have completed my M.Sc in Civil (Geotechnical) Engineering from <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)<a> and have over 5 yrs of experience in subsoil investigation and design. My expertise include advance soil laboratory testing, field soil testing, and geotechnical design. In addition to my professional background, I have spent almost 4 years. conducting research in geotechnical engineering. My research has given me a deep understanding of the complexities of the field and allowed me to create innovative solutions to challenging problems. A geotechnical engineer with a passion for Python programming, diving into <b>data science</b> and <b></b>machine learning</b> to revolutionize geotechnical analyses and enhance civil infrastructure's safety and sustainability. 🚀🐍🌐 <br>
+<p align="center">I'm a geotechnical engineer with extensive academic and practical experience. I have completed my M.Sc in Civil (Geotechnical) Engineering from <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)</a> and have over 5 yrs of experience in subsoil investigation and design. My expertise include advance soil laboratory testing, field soil testing, and geotechnical design. In addition to my professional background, I have spent almost 4 years. conducting research in geotechnical engineering. My research has given me a deep understanding of the complexities of the field and allowed me to create innovative solutions to challenging problems. A geotechnical engineer with a passion for Python programming, diving into <b>data science</b> and <b>machine learning</b> to revolutionize geotechnical analyses and enhance civil infrastructure's safety and sustainability. 🚀🐍🌐 <br>
+Get more about me >> <a href="https://www.riponcm.github.io">www.riponcm.github.io</a>
 <p/>
 <h2 align="center">Skills</h2>
 <p style="display: inline-block;" align="center">
@@ -58,6 +59,8 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>     
      
+<br>
+<br>
 
 <p style="display: inline-block;" align="center">
 <kbd>
