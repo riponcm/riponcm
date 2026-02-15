@@ -15,8 +15,9 @@ You can click the Preview link to take a look at your changes.
 <html>
 <body>
       
-<p align="center">'m a **PhD student** in the Department of Civil and Environmental Engineering at the **University of Utah, USA**, majoring in Geotechnical Engineering. My current research focuses on **granular materials** and the application of **artificial intelligence** in geotechnical engineering. I completed my **M.Sc. in Civil (Geotechnical) Engineering** from the most prestigious university in Bangladesh, Bangladesh University of Engineering & Technology (BUET). A geotechnical engineer with a passion for **Python programming**, diving into **machine learning**, **deep learning**, and **data science** to revolutionize geotechnical analyses and enhance civil infrastructure's safety and sustainability. I'm also developing **web applications** and interactive tools to make geotechnical data analysis more accessible and powerful. I am a critical thinker, an effective communicator, and a dedicated team player. 🚀🐍🌐
-<p/>
+<p align="center">
+I'm a <b>PhD student</b> in the Department of Civil and Environmental Engineering at the <b>University of Utah, USA</b>, majoring in Geotechnical Engineering. My current research focuses on <b>granular materials</b> and the application of <b>artificial intelligence</b> in geotechnical engineering. I completed my <b>M.Sc. in Civil (Geotechnical) Engineering</b> from the most prestigious university in Bangladesh, Bangladesh University of Engineering & Technology (BUET). A geotechnical engineer with a passion for <b>Python programming</b>, diving into <b>machine learning</b>, <b>deep learning</b>, and <b>data science</b> to revolutionize geotechnical analyses and enhance civil infrastructure's safety and sustainability. I'm also developing <b>web applications</b> and interactive tools to make geotechnical data analysis more accessible and powerful. I am a critical thinker, an effective communicator, and a dedicated team player. 🚀🐍🌐
+</p>
 <h2 align="center">Skills</h2>
 <p style="display: inline-block;" align="center">
 <kbd>
