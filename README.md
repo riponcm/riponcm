@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning Machine Learning  
+- 🌱 I’m currently learning Scientific Machine Learning  
 - 💞️ I’m looking to collaborate on Machine Learning  Project
 
 <!---
@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 <html>
 <body>
       
-<p align="center">I'm a geotechnical engineer with extensive academic and practical experience. I have completed my M.Sc in Civil (Geotechnical) Engineering from <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)</a> and have over 5 yrs of experience in subsoil investigation and design. My expertise include advance soil laboratory testing, field soil testing, and geotechnical design. In addition to my professional background, I have spent almost 4 years. conducting research in geotechnical engineering. My research has given me a deep understanding of the complexities of the field and allowed me to create innovative solutions to challenging problems. A geotechnical engineer with a passion for Python programming, diving into <b>data science</b> and <b>machine learning</b> to revolutionize geotechnical analyses and enhance civil infrastructure's safety and sustainability. 🚀🐍🌐 <br>
-Get more about me >> <a href="https://riponcm.github.io">riponcm.github.io</a>
+<p align="center">'m a **PhD student** in the Department of Civil and Environmental Engineering at the **University of Utah, USA**, majoring in Geotechnical Engineering. My current research focuses on **granular materials** and the application of **artificial intelligence** in geotechnical engineering. I completed my **M.Sc. in Civil (Geotechnical) Engineering** from the most prestigious university in Bangladesh, Bangladesh University of Engineering & Technology (BUET). A geotechnical engineer with a passion for **Python programming**, diving into **machine learning**, **deep learning**, and **data science** to revolutionize geotechnical analyses and enhance civil infrastructure's safety and sustainability. I'm also developing **web applications** and interactive tools to make geotechnical data analysis more accessible and powerful. I am a critical thinker, an effective communicator, and a dedicated team player. 🚀🐍🌐
 <p/>
 <h2 align="center">Skills</h2>
 <p style="display: inline-block;" align="center">
