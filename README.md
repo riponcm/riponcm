@@ -53,11 +53,12 @@ I'm a <b>PhD student</b> in the Department of Civil and Environmental Engineerin
 <h2 align="center">Github Statistics</h2>     
 <div align="center">
 <a href="https://github.com/riponcm">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riponcm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Ripon's GitHub Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=riponcm&layout=compact&theme=algolia">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponcm&layout=donut&langs_count=7&theme=algolia" alt="Ripon's Top Languages"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=riponcm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10" alt="Ripon's GitHub Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=riponcm&theme=algolia&border_radius=10" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riponcm&layout=compact&langs_count=8&theme=algolia&border_radius=10" alt="Top Languages"/>
 </a>
-</div>     
+</div>
+  
      
 <br>
 <br>
