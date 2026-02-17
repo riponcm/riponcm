@@ -1,4 +1,6 @@
 
+![Ripon Chandra Malo](profile-b.png)
+
 - 🌱 I’m currently learning Scientific Machine Learning  
 - 💞️ I’m looking to collaborate on Machine Learning  Project
 
