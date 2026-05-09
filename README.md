@@ -68,7 +68,7 @@ Applying machine learning and deep learning to granular material behavior, soil 
 </td>
 <td width="50%">
 
-** Scientific Machine Learning**
+**Scientific Machine Learning**
 Physics-informed neural networks and data-driven models that respect engineering constraints — not just black-box predictions.
 
 </td>
@@ -82,7 +82,7 @@ Building interactive tools and web applications to make geotechnical data analys
 </td>
 <td width="50%">
 
-** Developer Tools**
+**Developer Tools**
 Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first repo memory tool.
 
 </td>
