@@ -24,15 +24,34 @@
 ## About Me
 
 ```python
-ripon = {
-    "role"       : "PhD Researcher @ University of Utah",
-    "field"      : "Geotechnical Engineering + Artificial Intelligence",
-    "research"   : ["Granular Materials", "Scientific ML", "AI for Geotechnics"],
-    "background" : "M.Sc. Civil (Geotechnical) Engineering — BUET, Bangladesh",
-    "building"   : "projectmem — local-first memory for developer repos",
-    "goal"       : "Revolutionize geotechnical analysis with ML & data science",
-    "open_to"    : ["Research collaboration", "ML projects", "Open source"],
-}
+from dataclasses import dataclass
+from typing import list
+
+
+@dataclass
+class Researcher:
+    name: str = "Ripon Chandra Malo"
+    role: str = "PhD Researcher @ University of Utah"
+    field: str = "Geotechnical Engineering + Artificial Intelligence"
+
+    research_focus: list[str] = (
+        "Granular Materials",
+        "Scientific Machine Learning",
+        "AI for Geotechnics",
+    )
+
+    background: str = "M.Sc. Civil (Geotechnical) Engineering — BUET, Bangladesh"
+    building: str = "projectmem — local-first memory for developer repos"
+    goal: str = "Revolutionize geotechnical analysis with ML & data science"
+
+    open_to: list[str] = (
+        "Research collaboration",
+        "ML projects",
+        "Open source",
+    )
+
+
+ripon = Researcher()
 ```
 
 ---
@@ -119,14 +138,12 @@ Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first
 ---
 ## GitHub Stats
 
-> Stats reflect **public repos only**. Most active work is in private repos during development.
-
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=riponcm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10" alt="Ripon's GitHub Stats" />
+<img height="165em" src="https://ripon-github-stats.vercel.app/api?username=riponcm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10" alt="Ripon's GitHub Stats" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponcm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+<img height="165em" src="https://ripon-github-stats.vercel.app/api/top-langs/?username=riponcm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 
 </div>
 
