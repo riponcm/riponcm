@@ -144,7 +144,11 @@ Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first
 <img height="165em" src="https://ripon-github-stats.vercel.app/api?username=riponcm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10" alt="Ripon's GitHub Stats" />
 
 <img height="165em" src="https://ripon-github-stats.vercel.app/api/top-langs/?username=riponcm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+<br/><br/>
 
+<a href="https://git.io/streak-stats">
+  <img height="180em" src="https://streak-stats.demolab.com?user=riponcm&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</a>
 </div>
 
 
