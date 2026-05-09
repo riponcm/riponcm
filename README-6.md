@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 ripon = {
@@ -37,19 +37,19 @@ ripon = {
 
 ---
 
-## 🔬 Research Focus
+##  Research Focus
 
 <table>
 <tr>
 <td width="50%">
 
-**🌍 Geotechnical AI**
+**Geotechnical AI**
 Applying machine learning and deep learning to granular material behavior, soil classification, and civil infrastructure safety.
 
 </td>
 <td width="50%">
 
-**📐 Scientific Machine Learning**
+** Scientific Machine Learning**
 Physics-informed neural networks and data-driven models that respect engineering constraints — not just black-box predictions.
 
 </td>
@@ -57,14 +57,14 @@ Physics-informed neural networks and data-driven models that respect engineering
 <tr>
 <td width="50%">
 
-**📊 Data Science for Engineering**
+**Data Science for Engineering**
 Building interactive tools and web applications to make geotechnical data analysis accessible, visual, and powerful.
 
 </td>
 <td width="50%">
 
-**🛠️ Developer Tools**
-Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first repo memory tool that captures what you tried, what failed, and what worked. Any AI can read it.
+** Developer Tools**
+Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first repo memory tool.
 
 </td>
 </tr>
@@ -72,21 +72,21 @@ Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 <div align="center">
 
 | Project | What it does | Status |
 |---|---|---|
-| **[projectmem](https://github.com/riponcm/projectmem)** | Local-first memory for repos. Captures issues, attempts, fixes so you and any AI can read what's happening. | 🔨 Active |
-| **Geotechnical ML Tools** | ML-powered analysis tools for geotechnical engineering workflows | 🔬 Research |
-| **Scientific ML Experiments** | Physics-informed models for granular material simulation | 📖 Learning |
+| **[projectmem](https://github.com/riponcm/projectmem)** | Local-first memory for repos. |  Working |
+| **Geotechnical ML Tools** | ML-powered analysis tools for geotechnical engineering workflows | Research |
+| **Scientific ML Experiments** | Physics-informed models for granular material simulation |  Learning |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -118,9 +118,9 @@ Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-> ⚠️ Stats reflect **public repos only**. Most active work is in private repos during development.
+> Stats reflect **public repos only**. Most active work is in private repos during development.
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
