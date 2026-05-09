@@ -117,17 +117,19 @@ Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first
 </div>
 
 ---
-
 ## GitHub Stats
 
 > Stats reflect **public repos only**. Most active work is in private repos during development.
 
+
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=riponcm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10&hide=contribs" alt="Ripon's GitHub Stats"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponcm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=riponcm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10" alt="Ripon's GitHub Stats" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponcm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 
 </div>
+
 
 ---
 
