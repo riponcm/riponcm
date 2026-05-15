@@ -83,7 +83,7 @@ Building interactive tools and web applications to make geotechnical data analys
 <td width="50%">
 
 **Developer Tools**
-Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first repo memory tool.
+Building [`projectmem`](https://github.com/riponcm/projectmem) — Local-first memory layer for AI coding agents — your AI starts experienced, not amnesiac..
 
 </td>
 </tr>
@@ -94,6 +94,19 @@ Building [`projectmem`](https://github.com/riponcm/projectmem) — a local-first
 ## Currently Building
 
 <div align="center">
+  
+**projectmem — Local-first memory layer for AI coding agents** 
+
+Your AI coding agent forgets everything between sessions. **projectmem fixes that.**
+It captures issues, attempts, decisions, and cross-project library gotchas locally —
+so Claude Desktop, Cursor, Antigravity, and Codex start every session *experienced*,
+not amnesiac.
+
+100% local · no cloud · no telemetry · MIT licensed
+
+[**→ projectmem.dev**](https://projectmem.dev) ·
+[GitHub](https://github.com/riponcm/projectmem) ·
+[`pip install projectmem`](https://pypi.org/project/projectmem/)
 
 | Project | What it does | Status |
 |---|---|---|
